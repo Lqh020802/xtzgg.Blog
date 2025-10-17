@@ -31,6 +31,11 @@ export default navbar([
         icon: "mdi:web",
         link: "browser/",
       },
+      {
+        text: "Electron",
+        icon: "simple-icons:electron",
+        link: "electron/",
+      },
     ],
   },
 ]);
