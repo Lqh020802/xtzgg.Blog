@@ -29,14 +29,12 @@ jobs:
           fetch-depth: 0 # 获取完整历史，用于 git 相关功能
 
       - name: Setup pnpm
-        uses: pnpm/action-setup@v3
-        with:
-          version: 8
+        uses: pnpm/action-setup@v4
 
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 20
+          node-version: 22
           cache: pnpm
 
       - name: Setup Pages
@@ -45,10 +43,16 @@ jobs:
           enablement: true
 
       - name: Install dependencies
-        run: pnpm install --frozen-lockfile
+        run: |
+          corepack enable
+          pnpm install --frozen-lockfile
 
       - name: Build with VuePress
-        run: pnpm run docs:build
+        env:
+          NODE_OPTIONS: --max_old_space_size=8192
+        run: |
+          pnpm run docs:build
+          echo "" > src/.vuepress/dist/.nojekyll
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
