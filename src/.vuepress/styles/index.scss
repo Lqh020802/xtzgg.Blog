@@ -1,0 +1,25 @@
+// place your custom styles here
+
+// 档案主页名字颜色设置为白色
+.vp-portfolio-name,
+.portfolio-name,
+h1.name,
+.vp-portfolio-hero h1,
+.hero-info h1,
+[class*="portfolio"] h1 {
+    color: white !important;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+
+// 欢迎语也设置为白色
+.vp-portfolio-welcome {
+    color: white !important;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
+
+
+// 职业头衔也设置为白色
+.vp-portfolio-title {
+    color: white !important;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5);
+}
