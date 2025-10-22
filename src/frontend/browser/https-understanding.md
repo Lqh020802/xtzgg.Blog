@@ -1,6 +1,14 @@
 ---
 title: HTTPS 深入理解
 icon: 'grommet-icons:lock-lock'
+category:
+  - 网络安全
+tag:
+  - HTTPS
+  - SSL/TLS
+  - 加密
+  - 网络安全
+  - 证书
 ---
 # HTTPS 深入理解
 

@@ -1,6 +1,14 @@
 ---
 title: NPM 私服
 icon: mdi:tools
+category:
+  - 前端工程化
+tag:
+  - NPM
+  - 私服
+  - 包管理
+  - Verdaccio
+  - DevOps
 ---
 
 # NPM 私服

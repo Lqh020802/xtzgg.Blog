@@ -1,6 +1,13 @@
 ---
 title: 手写 call/apply/bind
 icon: logos:javascript
+category:
+  - JavaScript
+tag:
+  - JavaScript
+  - 手写实现
+  - this指向
+  - 原型
 ---
 
 # 手写 call/apply/bind

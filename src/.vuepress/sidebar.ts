@@ -9,6 +9,10 @@ export default sidebar({
 
   // JavaScript 子目录 - 只显示非 README 文件
   "/frontend/javascript/": [
+    "program-design",
+    "promise-implementation",
+    "proxy-reflect",
+    "iterator-generator",
     "prototype-chain",
     "garbage-collection",
     "callback-hell",
@@ -20,12 +24,22 @@ export default sidebar({
 
   // Vue.js 子目录
   "/frontend/vue/": [
+    "vue2-source-code",
+    "vue3-source-code",
     "hook-vs-mixin",
   ],
 
   // 工程化 子目录
   "/frontend/engineering/": [
+    "module-systems",
     "npm-registry",
+    "package-managers",
+    "webpack-complete-guide",
+    "frontend-engineering",
+    "compatibility-management",
+    "code-style-management",
+    "less-preprocessor",
+    "performance-optimization",
   ],
 
   // CSS 子目录

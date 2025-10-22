@@ -5,7 +5,15 @@ icon: logos:vue
 
 # Vue.js 知识点
 
-### Vue3 新特性
+## 源码深度解析
+
+### Vue 2.0
+- [Vue 2.0源码深度解析](./vue2-source-code.md) - 响应式原理、虚拟DOM、Diff算法、模板编译
+
+### Vue 3.0
+- [Vue 3.0源码深度解析](./vue3-source-code.md) - Proxy响应式、Composition API、编译优化、性能提升
+
+### 对比与进阶
 - [Hook 与 Mixin](./hook-vs-mixin.md) - Vue3 组合式 API 与 Vue2 Mixin 的对比
 
 ## Vue 基础

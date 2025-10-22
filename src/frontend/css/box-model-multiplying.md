@@ -1,6 +1,14 @@
 ---
 title: 页面盒模型变多问题排查
 icon: mdi:cube-outline
+category:
+  - CSS
+tag:
+  - CSS
+  - 盒模型
+  - 布局
+  - 调试
+  - 问题排查
 ---
 
 # 页面盒模型变多问题排查

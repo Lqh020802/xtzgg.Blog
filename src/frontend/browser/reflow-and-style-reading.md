@@ -1,6 +1,14 @@
 ---
 title: 读取style属性与回流机制
 icon: mdi:refresh
+category:
+  - 浏览器原理
+tag:
+  - 浏览器
+  - 回流
+  - 重绘
+  - 性能优化
+  - CSS
 ---
 
 # 读取style属性与回流机制

@@ -1,6 +1,14 @@
 ---
 title: link与script元素阻塞机制
 icon: mdi:block-helper
+category:
+  - 浏览器原理
+tag:
+  - 浏览器
+  - 渲染阻塞
+  - JavaScript
+  - CSS
+  - 性能优化
 ---
 
 # link与script元素阻塞机制

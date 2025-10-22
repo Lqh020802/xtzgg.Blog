@@ -1,6 +1,13 @@
 ---
 title: 单点登录 (SSO)
 icon: mdi:web
+category:
+  - 网络安全
+tag:
+  - SSO
+  - 单点登录
+  - 身份认证
+  - 安全
 ---
 
 # 单点登录 (SSO)

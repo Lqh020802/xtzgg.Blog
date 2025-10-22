@@ -1,6 +1,14 @@
 ---
 title: CSS样式不生效问题排查
 icon: mdi:css3
+category:
+  - CSS
+tag:
+  - CSS
+  - 样式调试
+  - 选择器
+  - 优先级
+  - 问题排查
 ---
 
 # CSS样式不生效问题排查

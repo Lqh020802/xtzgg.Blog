@@ -1,6 +1,14 @@
 ---
 title: 长任务与页面卡死机制
 icon: mdi:clock-alert
+category:
+  - 浏览器原理
+tag:
+  - 浏览器
+  - 长任务
+  - 性能优化
+  - JavaScript
+  - 事件循环
 ---
 
 # 长任务与页面卡死机制

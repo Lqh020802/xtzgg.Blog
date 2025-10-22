@@ -1,6 +1,13 @@
 ---
 title: CSSOM详解
 icon: mdi:code-json
+category:
+  - 浏览器原理
+tag:
+  - CSS
+  - CSSOM
+  - 浏览器
+  - 对象模型
 ---
 
 # CSSOM详解

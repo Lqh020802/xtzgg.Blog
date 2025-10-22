@@ -1,6 +1,14 @@
 ---
 title: 光栅化详解
 icon: mdi:grid
+category:
+  - 浏览器原理
+tag:
+  - 浏览器
+  - 光栅化
+  - 渲染原理
+  - GPU
+  - 性能优化
 ---
 
 # 光栅化详解

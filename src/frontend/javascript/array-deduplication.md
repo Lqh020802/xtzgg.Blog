@@ -1,6 +1,13 @@
 ---
 title: 对象数组去重
 icon: logos:javascript
+category:
+  - JavaScript
+tag:
+  - JavaScript
+  - 数组
+  - 去重
+  - 算法
 ---
 
 # 对象数组去重

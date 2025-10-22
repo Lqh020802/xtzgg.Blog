@@ -1,6 +1,13 @@
 ---
 title: 常见的数组方法
 icon: logos:javascript
+category:
+  - JavaScript
+tag:
+  - JavaScript
+  - 数组
+  - API
+  - 方法
 ---
 
 # 常见的数组方法

@@ -1,6 +1,13 @@
 ---
 title: 垃圾回收机制
 icon: logos:javascript
+category:
+  - JavaScript
+tag:
+  - JavaScript
+  - 内存管理
+  - 垃圾回收
+  - 性能优化
 ---
 
 # 垃圾回收机制

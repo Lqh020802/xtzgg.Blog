@@ -1,6 +1,13 @@
 ---
 title: CSS属性值计算过程
 icon: mdi:calculator
+category:
+  - 浏览器原理
+tag:
+  - CSS
+  - 浏览器
+  - 渲染原理
+  - 样式计算
 ---
 
 # CSS属性值计算过程

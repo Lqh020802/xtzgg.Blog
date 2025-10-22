@@ -1,6 +1,13 @@
 ---
 title: 合成线程详解
 icon: mdi:layers-triple
+category:
+  - 浏览器原理
+tag:
+  - 浏览器
+  - 渲染原理
+  - 合成线程
+  - 性能优化
 ---
 
 # 合成线程详解

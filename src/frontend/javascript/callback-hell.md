@@ -1,6 +1,13 @@
 ---
 title: 回调地狱
 icon: logos:javascript
+category:
+  - JavaScript
+tag:
+  - JavaScript
+  - 异步编程
+  - Promise
+  - async/await
 ---
 
 # 回调地狱

@@ -1,6 +1,14 @@
 ---
 title: will-change属性详解
 icon: mdi:flash
+category:
+  - CSS
+tag:
+  - CSS
+  - will-change
+  - 性能优化
+  - 合成层
+  - 动画
 ---
 
 # will-change属性详解

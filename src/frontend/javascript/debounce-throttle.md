@@ -1,6 +1,14 @@
 ---
 title: 防抖和节流
 icon: logos:javascript
+category:
+  - JavaScript
+tag:
+  - JavaScript
+  - 性能优化
+  - 防抖
+  - 节流
+  - 手写实现
 ---
 
 # 防抖和节流

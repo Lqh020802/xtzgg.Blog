@@ -1,6 +1,13 @@
 ---
 title: XSS 攻击与防护
 icon: mdi:web
+category:
+  - 网络安全
+tag:
+  - XSS
+  - 安全
+  - 跨站脚本
+  - 前端安全
 ---
 
 # XSS 攻击与防护

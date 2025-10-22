@@ -1,6 +1,13 @@
 ---
 title: 原型链
 icon: logos:javascript
+category:
+  - JavaScript
+tag:
+  - JavaScript
+  - 原型链
+  - 继承
+  - 面向对象
 ---
 
 # 原型链

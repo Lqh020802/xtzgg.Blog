@@ -1,6 +1,13 @@
 ---
 title: JWT 身份认证
 icon: mdi:web
+category:
+  - 网络安全
+tag:
+  - JWT
+  - 身份认证
+  - Token
+  - 安全
 ---
 
 # JWT 身份认证
