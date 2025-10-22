@@ -6,7 +6,7 @@ export default sidebar({
   ],
   // frontend 主目录
   "/frontend/": "structure",
-  
+
   // JavaScript 子目录 - 只显示非 README 文件
   "/frontend/javascript/": [
     "prototype-chain",
@@ -17,25 +17,42 @@ export default sidebar({
     "call-apply-bind",
     "array-deduplication",
   ],
-  
+
   // Vue.js 子目录
   "/frontend/vue/": [
     "hook-vs-mixin",
   ],
-  
+
   // 工程化 子目录
   "/frontend/engineering/": [
     "npm-registry",
   ],
-  
+
+  // CSS 子目录
+  "/frontend/css/": [
+    "styles-not-working",
+    "box-model-multiplying",
+    "transform-performance",
+    "will-change-property",
+  ],
+
   // 浏览器 子目录
   "/frontend/browser/": [
     "process-model",
+    "compositor-thread",
+    "layering-and-tiling",
+    "rasterization-explained",
+    "link-script-blocking",
+    "long-task-blocking",
+    "reflow-and-style-reading",
+    "https-understanding",
+    "cssom-explained",
+    "css-value-computation",
     "jwt",
     "sso",
     "xss",
   ],
-  
+
   // Electron 子目录
   "/frontend/electron/": [
     "Electron_index",

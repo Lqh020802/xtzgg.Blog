@@ -17,6 +17,11 @@ export default navbar([
         link: "javascript/",
       },
       {
+        text: "CSS",
+        icon: "logos:css-3",
+        link: "css/",
+      },
+      {
         text: "Vue.js",
         icon: "logos:vue",
         link: "vue/",
