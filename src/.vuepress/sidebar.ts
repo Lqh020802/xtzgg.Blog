@@ -13,6 +13,9 @@ export default sidebar({
     "promise-implementation",
     "proxy-reflect",
     "iterator-generator",
+    "mvvm-implementation",
+    "design-patterns",
+    "frontend-algorithms",
     "prototype-chain",
     "garbage-collection",
     "callback-hell",
@@ -27,6 +30,22 @@ export default sidebar({
     "vue2-source-code",
     "vue3-source-code",
     "hook-vs-mixin",
+  ],
+
+  // TypeScript 子目录
+  "/frontend/typescript/": [
+    "01-basics",
+    "02-interface-type",
+    "03-class-inheritance",
+    "04-function-generic",
+    "05-advanced-types",
+    "06-module-namespace",
+    "07-decorator",
+    "08-type-gymnastics",
+    "09-tsconfig",
+    "10-react-typescript",
+    "11-vue-typescript",
+    "12-nodejs-typescript",
   ],
 
   // 工程化 子目录

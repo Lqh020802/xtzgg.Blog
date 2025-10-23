@@ -17,6 +17,11 @@ export default navbar([
         link: "javascript/",
       },
       {
+        text: "TypeScript",
+        icon: "logos:typescript-icon",
+        link: "typescript/",
+      },
+      {
         text: "CSS",
         icon: "logos:css-3",
         link: "css/",
@@ -41,6 +46,7 @@ export default navbar([
         icon: "simple-icons:electron",
         link: "electron/",
       },
+
     ],
   },
 ]);
